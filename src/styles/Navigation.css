@@ -6,7 +6,6 @@ font-style: normal;
 font-weight: 700;
 font-size:3.75vw;
 line-height:5.625vw;
-
 } 
 .space{
 padding-left:6.927vw;
@@ -26,9 +25,9 @@ width:1.5625vw;
 height:1.5625vw;
 }
 .signin_button{
-background-color:red;
-width:100px;
-height: 20px;
+background-color:blue;
+width:5.20vw;
+height:1.041vw;
 }
 }
 
