@@ -1,0 +1,86 @@
+@media screen and (min-width:602px){
+ .explore_contain{
+background:#FEF5EC;
+padding-top:14.21vw;
+height:95vw;
+ }
+ 
+.explore_content{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.explore_head{
+font-family: 'Poppins';
+font-style:'normal';
+font-size:2.5vw;
+line-height:3.229vw;
+color:#2E266F;
+}
+.explore_subhead{
+font-family:'Poppins';
+font-style:'normal';
+font-size:0.729vw;
+line-height:1.25vw;
+color:#707070;  
+ width:31.71875vw;   
+}
+.explore_main{
+display:grid;
+grid-template-columns:1fr 1fr 1fr;
+padding-top:3.125vw;
+gap:1.21vw;
+}
+.explore_main_two{
+display:grid;
+grid-template-columns:1fr 1fr 1fr;
+padding-top:3.125vw;
+gap:1.21vw;
+    }
+.sand_wich{
+width:27.604vw;
+}
+.price_box{
+background:#FFFFFF;
+border-bottom-right-radius:1.302vw;
+border-bottom-left-radius:1.302vw;
+height:7.5522vw;
+width:27.604vw;
+padding-left:1.5625vw;
+padding-right:1.5625vw;
+padding-top:1.5625vw;
+}
+.price_details{
+display:grid;
+grid-template-columns:1fr auto;
+}
+.food_title{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size:1.25vw;
+line-height:1.667vw;
+text-transform: capitalize;
+color: #2E266F;
+}
+.food_details{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size:0.729vw;
+line-height:1.25vw;
+text-transform: capitalize;
+color: #707070;
+width:15.05vw;
+    
+}
+.food_price{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 1.25vw;
+line-height:1.667vw;
+text-transform: capitalize;
+color: #FE043C;
+}
+}
