@@ -1,0 +1,57 @@
+@media only screen and (min-width:602px){
+.services{
+background:#FEF5EC;
+/* height:50vw; */
+padding-top:1.5625vw;
+}
+.service_contain{
+display:grid;
+grid-template-columns: 1fr 1fr;
+padding-top: 1.5625vw;
+}
+.service_head{
+font-family: 'Poppins';
+font-style: 'normal';
+font-size: 2.5vw;
+line-height:3.385vw;
+color: #2E266F;
+width:15.98vw;
+display: inline-block;
+margin-left:1.5625vw;
+vertical-align: middle;
+}
+.service_content{
+font-family:'Poppins';
+font-style: 'normal';
+font-size:0.729vw;
+line-height:1.25vw;
+ color:#707070;
+ width:31.71vw;
+ padding-top:1.5625vw;
+}
+.service_main{
+display: grid;
+grid-template-columns: 1fr 1fr auto;
+padding-top:14.21vw;
+gap:40px;
+}
+.table1{
+width:20.3125vw;
+height:19.79vw;
+}
+.advance_table{
+margin-top:5.2083vw;
+margin-left:-8.05vw;
+}
+.table_3{
+width:34.89vw;
+height:39.479vw;
+}
+.service_main2{
+display: flex;
+}
+.table2{
+width:20.3125vw;
+height:19.79vw;
+ }
+}
